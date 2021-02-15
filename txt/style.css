@@ -1,0 +1,65 @@
+.jumbotron {
+    background-image: url(./assets/code-background.jpeg);
+    background-size: cover;
+}
+
+#background {
+    background-color: grey;
+    text-align: center;
+    color: white;
+}
+
+.sign-up {
+    position: relative; bottom: 15px;
+}
+
+.enterbutton {
+    position: relative; top: 25px;  
+}
+
+#txt {
+    color: black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative; bottom: 15px;
+    border-color: black; 
+    background-color:  white; 
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    padding: 5px;
+    width: 20%;
+}
+
+#password {
+    color: black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative; bottom: 10px;
+    border-color: black; 
+    background-color:  white; 
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: solid;
+    padding: 5px;
+    width: 20%;
+}
+
+#txt2 {
+    color: black;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:relative; top: 15px;
+    border-color:black; 
+    background-color:white;  
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: double;
+    padding: 5px;
+    width: 20%;
+
+}
+
