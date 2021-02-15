@@ -1,0 +1,39 @@
+
+#body {
+    background-color: green;
+    border-style: solid;
+    border-width: 10px;
+    background-image: url(https://images.squarespace-cdn.com/content/v1/53e4ea80e4b0a79b40480ad4/1561024425797-BIC9X77DXYLUC56T4JPN/ke17ZwdGBToddI8pDm48kEKMqguWKtJtdu7GRpevtycUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKcY_SKr6PHxI-NFLCFFhZRL-WMdpl-xMP0PX9ColnCcznOWQn75VErDdh0vv-EiKtt/YUGIOH_dan_mumford_1.jpg?format=1500w);
+
+}
+
+#image {
+    margin-top: 30px;
+    margin-bottom: 50px;
+    margin-right: 450px;
+    margin-left: 500px;
+}
+
+#container {
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    text-indent: 50px;
+    letter-spacing: 1px;
+    background-color: hsl(194, 86%, 48%);
+}
+
+#h3 {
+    font-size: x-large;
+    background-color: rgb(17, 21, 228);
+    text-align: center;
+    font-family: Impact, Times, 'Times New Roman', serif;
+}
+
+@media (orientation: landscape) {
+    h3 {
+        color:white;
+    }
+}
+
+
